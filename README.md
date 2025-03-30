@@ -28,3 +28,7 @@ The demo contains two dummy projects, they' exactly the same.
 The project located in \_\_Sources\_\_  works correctly and detects that it should use package version 2.1.10 instead of 3.1.7.
 
 The project located in (\_Sources\_) fails to run the conditional and uses 3.1.7 version for both target frameworks, making the project to fail.
+
+Here's how it looks in Visual Studio:
+
+![image](vsbug.gif)
