@@ -1,4 +1,8 @@
 
+## FIXED
+
+This issue has been fixed in Visual Studio 17.14.3
+
 ## Overview
 
 This is a proof of concept to demonstrate this extremely weird issue I found after updating to Visual Studio 17.13.xx
